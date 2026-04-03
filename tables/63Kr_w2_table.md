@@ -2,7 +2,7 @@ CIFAR-100 clusters=100
 
 | | Prompt | Noise ratio | $H(Y \mid \bar{Y})$ | $I(Y; \bar{Y})$ | FWD | CPE |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Qwen3-VL-8B | Current prompt | 0.07% | 5.5897 | 1.0542 | 36.92±0.45 | 36.77±0.40 |
+| Qwen3-VL-8B | Current prompt | 0.07% | 5.6042 | 1.0397 | 36.92±0.45 | 36.77±0.40 |
 | LLaVA-7B | Current prompt | 0.23% | 4.5727  | 2.0711 | 46.70±0.60 | 46.57±0.09 |
 
 | | Prompt | Noise ratio | $H(Y \mid \bar{Y})$ | $I(Y; \bar{Y})$ | FWD | CPE |
